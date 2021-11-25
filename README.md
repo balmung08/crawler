@@ -1,3 +1,2 @@
-# crawler
-an easy crawler and interaction UI
-urllib+beautifulsoup+re+tkinter
+基于python自带的tkinter实现的简单可视化爬虫小程序
+图片来自pixiv镜像站，侵删
